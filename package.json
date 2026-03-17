@@ -1,0 +1,12 @@
+{
+    "name": "Minuteur",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Plugin Minuteur for A.V.A.T.A.R",
+    "repository": "https://github.com/YOUR-REPOSITORY",
+    "keywords": [
+        "Minuteur"
+    ],
+    "author": "YOUR-NAME",
+    "license": "mit"
+  }

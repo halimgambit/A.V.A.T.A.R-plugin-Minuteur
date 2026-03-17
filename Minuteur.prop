@@ -1,0 +1,13 @@
+{
+	"modules": { 
+		"Minuteur": {
+			"version": "1.0",
+			"name": "timer",
+			"son_minuteur":"https://universal-soundbank.com/sounds/8504.mp3",
+			"rules": {
+				"getTimer": ["timer"]
+			}
+		}
+	}
+}
+			
